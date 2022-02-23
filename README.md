@@ -56,7 +56,7 @@ Here are some ideas to get you started:
      
    
      
- <br> 🌐 Utilizo com frenquência o banco de dados Firebird para aplicações em Delphi e SQLite para desenvolvimento mobile.<br>   
+ <br> 🌐 Utilizo com frequência o banco de dados Firebird para aplicações em Delphi e SQLite para desenvolvimento mobile.<br>   
    
 <br>   💬 Desenvolva comigo: Vitor6890@gmail.com     <br>
      
