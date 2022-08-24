@@ -33,11 +33,9 @@
  </p>
    <h3 align="center" >Olá, eu me chamo Vitor Daniel Mendes dos Santos</h3>
    
- <br>🔭 Desenvolvedor Delphi.<br>
-       
- <br>📖 Estudo com frenquencia a linguagem Dart e o framework Flutter 2.11.0, gosto muito de desenvolvimento mobile.  <br>  
+ <br>🔭 Desenvolvedor Flutter  C#.<br>
             
- <br> 🌐 Utilizo com frequência o banco de dados Firebird para aplicações em Delphi e SQLite para desenvolvimento mobile.<br>   
+ <br> 🌐 Estudante de Análise e desenvolvimento de sistemas, iniciei com  desenvolvimento desktop (Delphi) para contabilidade e atualmente desenvolvo mobile para o setor financeiro<br>   
    
 <br>   💬 Desenvolva comigo: Vitor6890@gmail.com     <br>
      
