@@ -2,7 +2,7 @@
 <h1 align="center" >Vitor Daniel<h1>
 
 <p align="center"> 
- <h5 align="center" >&nbsp;Desenvolvedor Flutter /Node.JS <h5>
+ <h5 align="center" >&nbsp;Desenvolvedor Flutter / Node.JS <h5>
 
 
 </p>
