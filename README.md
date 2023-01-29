@@ -55,7 +55,7 @@
 
    <br> :vibration_mode: Desenvolvimento mobile: Flutter <br>
    <br> :back:   Desenvolvimento API: Node.JS, PostgreSQL, MongoDB        <br>    
- <br> 🌐 Estudante de Análise e desenvolvimento de sistemas, iniciei com  desenvolvimento desktop (Delphi) para o setor contábil e atualmente desenvolvo mobile (Flutter/Node.JS) para o setor financeiro <br>   
+ <br> 🌐 Estudante de Análise e desenvolvimento de sistemas, iniciei com  desenvolvimento desktop (Delphi) para o setor contábil e atualmente desenvolvo mobile (Flutter/Node.JS) em uma plataforma de investimentos<br>   
    
 <br>   💬 Desenvolva comigo: Vitor6890@gmail.com     <br>
      
